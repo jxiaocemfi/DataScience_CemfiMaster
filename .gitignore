@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Environment files
+.venv
+.env
+
+# Specific files
+output/
+docs/
+Session2/2_1_Forecasting_Professions.ipynb
+Session2/docs/
+Session3/speeches
+Session3/chroma_db
+Session3/copies
+TODO.md
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
