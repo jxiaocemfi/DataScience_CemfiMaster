@@ -20,8 +20,8 @@ Please bring your laptop to class with `VSCode` and `uv` installed and ready to 
 ├── Session1/                # Session 1 notebooks
 │   ├── 1_1.ipynb           # Introduction to Python (Part I)
 │   └── 1_2.ipynb           # Introduction to Python (Part II)
-# ├── Session2/                # Session 2 materials
-# ├── Session3/                # Session 3 materials
+├── Session2/                # Session 2 materials
+├── Session3/                # Session 3 materials
 ├── main.py                  # Main Python script
 ├── pyproject.toml          # Project dependencies (uv)
 └── uv.lock                 # Locked dependencies for reproducibility
